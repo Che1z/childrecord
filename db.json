@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 1,
+      "url": "https://firebasestorage.googleapis.com/v0/b/child-record-website-v01.appspot.com/o/myimages%2F3839blue-social-media-logo_197792-1759.avif?alt=media&token=4d1954c6-4252-46b2-8e84-7ffd5e11efeb"
+    },
+    {
+      "id": 2,
+      "url": "https://firebasestorage.googleapis.com/v0/b/child-record-website-v01.appspot.com/o/myimages%2F1540blue-social-media-logo_197792-1759.avif?alt=media&token=367decb5-8e2a-4ed2-ad62-e0eb59b13793"
+    }
+  ]
+}
